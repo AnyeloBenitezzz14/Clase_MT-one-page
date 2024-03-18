@@ -1,0 +1,217 @@
+*{
+    margin: 0;  
+}
+
+.imagen1{
+    background-image: url(imagenes/Fondo\ universo.jpg);
+    height: 100vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    overflow: hidden;
+}
+.imagen2{
+    background-image: url(imagenes/tierra-horizonte-planeta.jpg);
+    height: 100vh;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.imagen3{
+    background-image: url(imagenes/Fondo\ universo.jpg);
+    height: 100vh;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.imagen4{
+    background-image: url(imagenes/tierra-horizonte-planeta.jpg);
+    height: 100vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.imagen5{
+    background-image: url(imagenes/Fondo\ universo.jpg);
+    height: 100vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.nube{
+    position:relative;
+    left:10%;
+    width:70% ;
+    height:50%;
+}
+.tablita {  
+    background-color: black;
+    width:100%;
+    height: 80px; 
+    text-align: center;
+    border: 1px solid white;
+
+}
+.textual {
+    font-size: 40px;
+    padding-top: 15px;
+}
+.textual1{
+    font-size: 50px;
+}
+.subtexto{
+    position: relative;
+    bottom:30px;
+    left: 15px;
+    font-size: 23px;
+    height: 150px;
+    width:400px;
+}
+.textual2{
+    font-size:40px;
+
+}
+.textonube{
+    position: relative;
+    bottom:27%;
+    left:27% ;
+    font-size: 45px;
+}
+.foto{
+    width:10% ;
+    height:190px;
+    position: relative;
+    right:30%;
+}
+.lineas {
+    position: relative;
+    left: 68%;
+    bottom: 500px;
+    background-color: black;
+    border:1px solid white ;
+    width: 27%;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    text-align: center;
+    height: 50px; 
+    padding: 5px;
+    margin-top:3px;    
+}
+.textil{
+    position:relative;
+    right:30% ; 
+    font-size: 17px;
+    text-align: left;
+    padding-top: 20px;
+}
+.organizacion{
+   position: relative;
+   top:20% ;
+   border:1px solid white;
+   width:30%;
+   height:30%;
+   background-color: black;
+}
+.organizacion2{
+    width: 600px;;
+    height:60px;
+    background-color: black;
+    border: 2px solid white;
+}
+.organizacion3{
+    width: 600px;;
+    height:60px;
+    background-color: black;
+    border: 2px solid white;
+}
+.parrafo{
+    padding-top: 13px;
+    font-size: 25px;
+}
+.parrafo2{
+    display: grid;
+    grid-template-columns: repeat(3, auto);
+    width:65%;
+    text-align:center;
+    font-size:30px ;
+}
+.parrafo2 hr{
+    margin: 20px;
+    height:170%;
+    position: relative;
+    bottom: 15%;
+}
+.tablota{
+    width:150px;
+    height: 60px;
+    padding-top: 18px ;
+    font-size:25px;
+}
+.cuadro1{
+    position: relative;
+    left:100% ;
+    bottom:40% ;
+    background-color: black;
+    border: 2px solid white;
+    width:300px;
+    height: 50px;
+    padding-top: 18px ;
+    font-size:31px;
+}
+.tablad3{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+}
+.tablad4{
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+}
+.ache{
+    margin: 20px;
+    height:110%;
+    width: 0px;
+    position: relative;
+    bottom: 5%;
+    left: 45%;
+}
+.p1{
+    position: relative;
+    left:30%;
+    width: 70%;
+    height: 100%;
+}
+.p3{
+    position: relative;
+    right:30px;
+}
+.textot4{
+    font-size:20px ;
+}
+.imgt4{
+    width: 80%;
+    height:40%;
+    border: 2px solid white;
+}
+.texto41{
+    font-size:30px ;
+}
+.tablad5{
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+}
+.divi5{
+    border: 2px solid white;
+    background-color:purple;
+}
+.texto5{
+    font-size: ;
+}
+.ache5{
+    margin: 20px;
+    height:115%;
+    width: 0px;
+    position: relative;
+    bottom: 5%;
+    left: 45%;
+}
